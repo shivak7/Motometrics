@@ -1,0 +1,9 @@
+Future tasks:
+
+Use better Goodness of fit esitmate (R^2 is not good enough).
+Possibly implement weighted sampling before fitting.
+
+
+Minor Bugs:
+
+Opening 2 or more subsequent data inspection windows throws a non-breaking error when closing window.
